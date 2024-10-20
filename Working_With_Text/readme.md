@@ -5,4 +5,4 @@ Line Breaks: The <br> tag creates a new line without starting a new paragraph.
 Horizontal Rules: Use <hr> to insert a horizontal line for separating content.
 Blockquotes: The <blockquote> tag is for longer quotes and usually indents the text.
 Inline Quotes: The <q> tag is for short quotes, and it automatically adds quotation marks.
-Preformatted Text: The <pre> tag preserves formatting and whitespace, often used for code.
+Preformatted Text: The <pre> tag preserves formatting and whitespace, often used for code
